@@ -101,3 +101,11 @@ li {
   box-shadow: 0px 0px 20px #ccc;
   margin-bottom: 10px;
 }
+
+/* lies */
+.lies{
+  line-height: 30px
+}
+.red{
+  color: red;
+}
